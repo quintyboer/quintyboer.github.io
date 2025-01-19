@@ -1,0 +1,27 @@
+---
+title: "My Education"
+---
+
+### Msc Methodology and Statistics for the Behavioural, Biomedical and Social Sciences
+
+**Utrecht University**  *2023 - current*
+
+*Thesis (in progress):* Transport Mode Detection in a Smartphone-based National Travel Survey (internship at Statistics Netherlands)
+
+### Bsc Political Science, University of Amsterdam
+
+**University of Amsterdam**  *2020 - 2023*
+
+*Thesis:* The Effect of Deepfake Warnings on the Perception of Authentic Videos: A Replication Study of The Negative Consequences of Informing Voters about Deepfakes: Evidence from Two Survey Experiments
+
+*Minor:* Amsterdam Data Science and Artificial Intelligence
+
+### BA Modern Theatre Dance ###
+
+**Amsterdam University of the Arts**  *2013 - 2018*
+
+*Internship:* Dance company Meyer-Chaffaud, The Hague
+
+*International Exchange:* Millennium Dance Complex, Los Angeles
+
+*Summer Intensive:* Batsheva Dance Company, Tel Aviv

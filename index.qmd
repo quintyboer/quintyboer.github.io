@@ -1,0 +1,22 @@
+---
+title: Hi, I'm Quinty! Welcome to my page.
+about:
+  template: jolla
+  image: images/picture.jpeg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/quintyboer
+    - icon: book
+      text: Goodreads
+      href: https://www.goodreads.com/user/show/58154714-quinty
+    - icon: envelope
+      text: Email me
+      href: mailto:q.e.boer@students.uu.nl
+---
+
+I'm a 2nd-year research master student in the program Methodology and Statistics for the Behavioural, Biomedical and Social Sciences at Utrecht University. Currently, I'm working on a thesis project at Statistics Netherlands focused on automatic transport mode detection in a representative smart survey.
+
+Whenever I'm not behind my laptop, you are likely to find me in a dance studio or off somewhere in a fictional world.
+
+Not interested in statistics, dance, or fiction? Feel free to check out [this paper](https://nsp.lse.ac.uk/articles/109) on the attempted closure of windows in Amsterdam's Red Light District written by Harriet Smith, Valerie Heere, Kevin Peeters, Ivy Drysdale, and me.
