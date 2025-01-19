@@ -1,5 +1,5 @@
 ---
-title: Hi, I'm Quinty! Welcome to my page.
+title: Hi, I'm Quinty. Welcome to my page!
 about:
   template: jolla
   image: images/picture.jpeg
