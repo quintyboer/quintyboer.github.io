@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "My Education",
+    "section": "",
+    "text": "Msc Methodology and Statistics for the Behavioural, Biomedical and Social Sciences\nUtrecht University 2023 - current\nThesis (in progress): Transport Mode Detection in a Smartphone-based National Travel Survey (internship at Statistics Netherlands)\n\n\nBsc Political Science, University of Amsterdam\nUniversity of Amsterdam 2020 - 2023\nThesis: The Effect of Deepfake Warnings on the Perception of Authentic Videos: A Replication Study of The Negative Consequences of Informing Voters about Deepfakes: Evidence from Two Survey Experiments\nMinor: Amsterdam Data Science and Artificial Intelligence\n\n\nBA Modern Theatre Dance\nAmsterdam University of the Arts 2013 - 2018\nInternship: Dance company Meyer-Chaffaud, The Hague\nInternational Exchange: Millennium Dance Complex, Los Angeles\nSummer Intensive: Batsheva Dance Company, Tel Aviv"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Quinty! Welcome to my page.",
+    "section": "",
+    "text": "I’m a 2nd-year research master student in the program Methodology and Statistics for the Behavioural, Biomedical and Social Sciences at Utrecht University. Currently, I’m working on a thesis project at Statistics Netherlands focused on automatic transport mode detection in a representative smart survey.\nWhenever I’m not behind my laptop, you are likely to find me in a dance studio or off somewhere in a fictional world.\nNot interested in statistics, dance, or fiction? Feel free to check out this paper on the attempted closure of windows in Amsterdam’s Red Light District written by Harriet Smith, Valerie Heere, Kevin Peeters, Ivy Drysdale, and me."
+  }
+]
